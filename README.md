@@ -1,5 +1,15 @@
 # 國家隊投資筆記
 
+## Dividend Aristocrats
+
+- Reference:
+  - [Dividend Aristocrats List](https://www.suredividend.com/dividend-aristocrats-list/)
+- Requirements:
+  - Be in the S&P 500
+  - Have 25+ consecutive years of dividend increases
+  - Meet certain minimum size & liquidity requirements
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1TlNCtwP0VM3DhZw_gFDRNo0XZhu_8C-jvATvYq5l8kY/edit?usp=sharing)
+
 ## Stock
 
 ### 每個月都會吐錢的組合
